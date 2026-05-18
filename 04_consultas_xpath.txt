@@ -1,0 +1,7 @@
+//empleado
+
+//nombre
+
+//salario
+
+//departamento[@id='20']
