@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<departamentos
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="didier_fernandez_trochez.xsd">
+  <departamento id="10">
+    <nombre_departamento>Administración</nombre_departamento>
+    <empleados>
+      <empleado id="101">
+        <nombre>Juan</nombre>
+        <apellido>Pérez</apellido>
+        <salario>2500</salario>
+      </empleado>
+    </empleados>
+  </departamento>
+  <departamento id="20">
+    <nombre_departamento>Tecnología</nombre_departamento>
+    <empleados>
+      <empleado id="102">
+        <nombre>Ana</nombre>
+        <apellido>Gómez</apellido>
+        <salario>3200</salario>
+      </empleado>
+      <empleado id="103">
+        <nombre>Carlos</nombre>
+        <apellido>López</apellido>
+        <salario>2800</salario>
+      </empleado>
+    </empleados>
+  </departamento>
+  <departamento id="30">
+    <nombre_departamento>Finanzas</nombre_departamento>
+    <empleados>
+      <empleado id="104">
+        <nombre>María</nombre>
+        <apellido>Rodríguez</apellido>
+        <salario>3500</salario>
+      </empleado>
+    </empleados>
+  </departamento>
+</departamentos>
